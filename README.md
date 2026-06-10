@@ -7,8 +7,10 @@ La guía completa de cada fase está en la web: **https://mars-expedition.github
 
 Requisitos: [uv](https://docs.astral.sh/uv/) (gestiona Python y las dependencias por ti).
 
+Crea un archivo `.env` en la raíz del proyecto (usa `.env.example` como plantilla) con tu
+API key de OpenAI o tu token gratis de GitHub Models. Luego:
+
 ```bash
-cp .env.example .env   # pon tu API key (o tu token gratis de GitHub Models)
 uv run phases/01-ignition/01_hello_agent.py
 ```
 
