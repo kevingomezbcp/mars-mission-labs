@@ -33,7 +33,7 @@ async def main() -> None:
 
     print("Control de Mision en linea. Escribe 'salir' para terminar.\n")
     while True:
-        user = input("TU: ")
+        user = input("Tú: ")
         if user.strip().lower() in {"salir", "exit", "quit"}:
             print("Cierre de comunicaciones. Cambio y fuera.")
             break
