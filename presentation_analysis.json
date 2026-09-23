@@ -1,0 +1,2708 @@
+{
+  "dimensions": {
+    "width_emu": 12192000,
+    "height_emu": 6858000,
+    "width_inches": 13.333333333333334,
+    "height_inches": 7.5
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "layout_name": "CARATULA-01",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 1",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 430669,
+          "width": 9144000,
+          "height": 747897,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Python + Agents",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Python + ",
+                    "bold": false,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight Black"
+                  },
+                  {
+                    "text": "Agents",
+                    "bold": false,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight Black"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Marcador de texto 2",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 1178566,
+          "width": 9144000,
+          "height": 424732,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Domina el Microsoft Agent Framework 1.0 desde cero",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Domina el Microsoft Agent Framework 1.0 desde cero",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 2,
+      "layout_name": "EN-BLANCO-01",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 1",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 414431,
+          "width": 10515600,
+          "height": 1325563,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Agenda",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Agenda",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 48.0,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Tabla 4",
+          "shape_type": "TABLE (19)",
+          "left": 1393348,
+          "top": 2047937,
+          "width": 9405305,
+          "height": 4117660,
+          "rotation": 0.0,
+          "fill_error": "'GraphicFrame' object has no attribute 'fill'"
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Modelo",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Modelo",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1870200,
+          "width": 5199973,
+          "height": 2797689,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Es el componente central de un sistema de IA.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Es el componente central de un sistema de IA.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "Ha sido entrenado con datos para identificar patrones y generar resultados.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Ha sido entrenado con datos para identificar patrones y generar resultados.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "¿Para qué sirve?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "¿Para qué sirve?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Convierte una entrada (texto, imagen o datos) en una salida útil basada en su entrenamiento.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Convierte una entrada (texto, imagen o datos) en una salida útil basada en su entrenamiento.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Ejemplo:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Ejemplo:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Generar una imagen modificada (por ejemplo, agregar un objeto a una foto).",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Generar una imagen modificada (por ejemplo, agregar un objeto a una foto).",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 3,
+          "name": "Imagen 5",
+          "shape_type": "PICTURE (13)",
+          "left": 5820346,
+          "top": 1613698,
+          "width": 5863738,
+          "height": 3147145,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1536,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "LLM (Large Language Model / Modelo de Lenguaje Grande)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "LLM (Large ",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  },
+                  {
+                    "text": "Language",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  },
+                  {
+                    "text": " Model / Modelo de Lenguaje Grande)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 360000,
+          "top": 1870200,
+          "width": 5736000,
+          "height": 3628686,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Modelo especializado en lenguaje natural, entrenado con grandes volúmenes de texto.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Modelo especializado en lenguaje natural, entrenado con grandes volúmenes de texto.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "¿Para qué sirve?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "¿Para qué sirve?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Comprender, generar y transformar lenguaje humano.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Comprender, generar y transformar lenguaje humano.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Casos de uso:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Casos de uso:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "- Redacción de textos",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Redacción de textos",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Traducción",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Traducción",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Resumen de información",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Resumen de información",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Chat conversacional",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Chat conversacional",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Ejemplo:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Ejemplo:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Generar un correo formal automáticamente.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Generar un correo formal automáticamente.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 1",
+          "shape_type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 12192000,
+          "height": 0,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": []
+              }
+            ]
+          }
+        },
+        {
+          "index": 4,
+          "name": "Imagen 8",
+          "shape_type": "PICTURE (13)",
+          "left": 6022041,
+          "top": 1940838,
+          "width": 5784809,
+          "height": 3502645,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1548,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 5,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Agente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Agente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 360000,
+          "top": 1870200,
+          "width": 10980548,
+          "height": 3074688,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Sistema que utiliza un LLM como “cerebro” y puede tomar decisiones para cumplir un objetivo.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Sistema que utiliza un LLM como “cerebro” y puede tomar decisiones para cumplir un objetivo.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Características clave:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Características clave:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "- Autonomía",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Autonomía",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Uso de herramientas",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Uso de herramientas",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Ejecución de acciones",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Ejecución de acciones",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "¿Para qué sirve?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "¿Para qué sirve?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Automatizar procesos completos sin intervención constante.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Automatizar procesos completos sin intervención constante.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Ejemplo:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Ejemplo:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 20.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Gestionar automáticamente la planificación de vacaciones.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Gestionar automáticamente la planificación de vacaciones.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 6,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Agente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Agente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "Imagen 4",
+          "shape_type": "PICTURE (13)",
+          "left": 359999,
+          "top": 1723028,
+          "width": 10449000,
+          "height": 4543032,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1548,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 7,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Sistema multiagente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Sistema ",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  },
+                  {
+                    "text": "multiagente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1870200,
+          "width": 11324085,
+          "height": 2243691,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Conjunto de agentes especializados que colaboran para resolver problemas complejos.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Conjunto de agentes especializados que colaboran para resolver problemas complejos.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "¿Para qué sirve?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "¿Para qué sirve?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Dividir un problema en tareas más pequeñas y coordinadas.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Dividir un problema en tareas más pequeñas y coordinadas.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": []
+              },
+              {
+                "text": "Ejemplo:",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "Ejemplo:",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "- Agente 1 (Atención): interactúa con el cliente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Agente 1 (Atención): interactúa con el cliente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Agente 2 (Riesgo): analiza historial crediticio",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Agente 2 (Riesgo): analiza historial crediticio",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Agente 3 (Decisión): aprueba o rechaza el crédito",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": 0.9,
+                "runs": [
+                  {
+                    "text": "- Agente 3 (Decisión): aprueba o rechaza el crédito",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 8,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos Clave",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos Clave",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Sistema multiagente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Sistema ",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  },
+                  {
+                    "text": "multiagente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "Imagen 4",
+          "shape_type": "PICTURE (13)",
+          "left": 359999,
+          "top": 1898374,
+          "width": 10449000,
+          "height": 3438939,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1548,
+            1016
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 9,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "LLM vs Agente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "LLM vs Agente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1281299,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Cuando usar uno y no el otro",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Cuando usar uno y no el otro",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359997,
+          "top": 2417673,
+          "width": 11324085,
+          "height": 830997,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "- La tarea es simple y puntual (una sola interacción)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- La tarea es simple y puntual (una sola interacción)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Necesitas respuestas rápidas y de bajo costo",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Necesitas respuestas rápidas y de bajo costo",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Siempre hay validación humana",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Siempre hay validación humana",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 3,
+          "name": "CuadroTexto 3",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359997,
+          "top": 4052645,
+          "width": 11324085,
+          "height": 1107996,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "- La tarea requiere múltiples pasos",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- La tarea requiere múltiples pasos",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Se deben tomar decisiones dinámicas",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Se deben tomar decisiones dinámicas",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Hay interacción con sistemas externos (APIs, BD, correo, etc.)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Hay interacción con sistemas externos (",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": "APIs",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": ", BD, correo, etc.)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Se necesita auto-validación (razonamiento iterativo)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Se necesita ",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": "auto-validación",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": " (razonamiento iterativo)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 4,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359996,
+          "top": 1849486,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Usar un LLM si :",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Usar un LLM si :",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 5,
+          "name": "Título 19",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359995,
+          "top": 3484458,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Usar un agente si :",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Usar un agente si :",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 10,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "LLM vs Agente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "LLM vs Agente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Imagen 7",
+          "shape_type": "PICTURE (13)",
+          "left": 360000,
+          "top": 1093303,
+          "width": 10287000,
+          "height": 5685183,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1536,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 11,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Microsoft Agent Framework",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Microsoft Agent Framework",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1302834,
+          "width": 11324085,
+          "height": 3323987,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "¿Qué es?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "¿Qué es?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Framework unificado para construir, desplegar y gestionar agentes inteligentes.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Framework unificado para construir, desplegar y gestionar agentes inteligentes.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": []
+              },
+              {
+                "text": "¿Por qué usarlo?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "¿Por qué usarlo?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "- Seguridad empresarial (ecosistema Microsoft)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Seguridad empresarial (ecosistema Microsoft)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Flexibilidad (soporta múltiples modelos)",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Flexibilidad (soporta múltiples modelos)",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Integración nativa con Azure",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Integración nativa con Azure",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": []
+              },
+              {
+                "text": "¿Dónde aplicarlo?",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "¿Dónde aplicarlo?",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "- Automatización de procesos",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Automatización de procesos",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Asistentes conversacionales",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Asistentes conversacionales",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "- Análisis y generación de reportes",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "- Análisis y generación de reportes",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 12,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 19",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Conceptos básicos de Microsoft Agent Framework",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Conceptos básicos de Microsoft Agent Framework",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "CuadroTexto 2",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 359999,
+          "top": 1286221,
+          "width": 11324085,
+          "height": 2215991,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Sesión",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Sesión",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Historial de conversación que permite mantener contexto.",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Historial de conversación que permite mantener contexto.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": []
+              },
+              {
+                "text": "Tools",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Tools",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Funciones externas que el agente puede ejecutar (APIs, lógica de negocio).",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Funciones externas que el agente puede ejecutar (",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": "APIs",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  },
+                  {
+                    "text": ", lógica de negocio).",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": []
+              },
+              {
+                "text": "Memoria",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Memoria",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight",
+                    "theme_color": "ACCENT_1 (5)"
+                  }
+                ]
+              },
+              {
+                "text": "Capacidad de almacenar información a largo plazo (preferencias, historial).",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Capacidad de almacenar información a largo plazo (preferencias, historial).",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 13,
+      "layout_name": "DIAPOSITIVA-02",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Título 1",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 443099,
+          "width": 11324085,
+          "height": 332399,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Creando nuestro primer agente",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Creando nuestro primer agente",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": null,
+                    "font_name": null
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 1,
+          "name": "Marcador de texto 2",
+          "shape_type": "PLACEHOLDER (14)",
+          "left": 360000,
+          "top": 1440000,
+          "width": 11339999,
+          "height": 2396938,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 91440,
+            "margin_right": 91440,
+            "margin_top": 45720,
+            "margin_bottom": 45720,
+            "word_wrap": null,
+            "paragraphs": [
+              {
+                "text": "Con estos conceptos, estamos listos para crear nuestro primer agente utilizando Microsoft Agent Framework.",
+                "level": 0,
+                "alignment": "CENTER (2)",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Con estos conceptos, estamos listos para crear nuestro primer agente utilizando Microsoft Agent Framework.",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 48.0,
+                    "font_name": "Inter Tight"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide_number": 14,
+      "layout_name": "Diapositiva de título",
+      "shapes": [
+        {
+          "index": 0,
+          "name": "Imagen 12",
+          "shape_type": "PICTURE (13)",
+          "left": 1,
+          "top": 4049,
+          "width": 12192000,
+          "height": 6853951,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1283,
+            961
+          ]
+        },
+        {
+          "index": 1,
+          "name": "CuadroTexto 9",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 507877,
+          "top": 861733,
+          "width": 11133047,
+          "height": 1328046,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 96001,
+            "margin_right": 96001,
+            "margin_top": 48001,
+            "margin_bottom": 48001,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "¡Ayúdanos a potenciar los",
+                "level": 0,
+                "alignment": "CENTER (2)",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "¡Ayúdanos a potenciar los",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 40.0,
+                    "font_name": "Inter Tight Black",
+                    "theme_color": "BACKGROUND_1 (14)"
+                  }
+                ]
+              },
+              {
+                "text": "MIÉRCOLES DE IA!",
+                "level": 0,
+                "alignment": "CENTER (2)",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "MIÉRCOLES DE IA!",
+                    "bold": true,
+                    "italic": null,
+                    "size_pt": 40.0,
+                    "font_name": "Inter Tight Black",
+                    "color": "#2AD2C9"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "name": "Imagen 10",
+          "shape_type": "PICTURE (13)",
+          "left": 9481369,
+          "top": 299946,
+          "width": 2159555,
+          "height": 261236,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            248,
+            30
+          ]
+        },
+        {
+          "index": 3,
+          "name": "CuadroTexto 11",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 185316,
+          "top": 121555,
+          "width": 6084807,
+          "height": 558604,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 96001,
+            "margin_right": 96001,
+            "margin_top": 48001,
+            "margin_bottom": 48001,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "#ComunidadIA",
+                "level": 0,
+                "alignment": "None",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "#ComunidadIA",
+                    "bold": null,
+                    "italic": true,
+                    "size_pt": 30.0,
+                    "font_name": "Inter Tight Light",
+                    "theme_color": "BACKGROUND_1 (14)"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 4,
+          "name": "Grupo 17",
+          "shape_type": "GROUP (6)",
+          "left": 7791227,
+          "top": 2524765,
+          "width": 3292900,
+          "height": 3471502,
+          "rotation": 0.0,
+          "fill_error": "'GroupShape' object has no attribute 'fill'",
+          "group_shapes": [
+            {
+              "name": "Grupo 38",
+              "shape_type": "GROUP (6)",
+              "left": 1900892,
+              "top": 2688666,
+              "width": 3292900,
+              "height": 3471502
+            },
+            {
+              "name": "Imagen 13",
+              "shape_type": "PICTURE (13)",
+              "left": 2454587,
+              "top": 3523227,
+              "width": 2271297,
+              "height": 2334959,
+              "image_filename": "image.png"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "name": "CuadroTexto 14",
+          "shape_type": "TEXT_BOX (17)",
+          "left": 507877,
+          "top": 3590142,
+          "width": 4344103,
+          "height": 1574267,
+          "rotation": 0.0,
+          "fill_type": "BACKGROUND (5)",
+          "text_frame": {
+            "margin_left": 96001,
+            "margin_right": 96001,
+            "margin_top": 48001,
+            "margin_bottom": 48001,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "Tu opinión es clave para seguir aprendiendo juntos.🚀",
+                "level": 0,
+                "alignment": "RIGHT (3)",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "Tu opinión es clave para seguir aprendiendo juntos.🚀",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 32.0,
+                    "font_name": "Inter Tight",
+                    "theme_color": "BACKGROUND_1 (14)"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "index": 6,
+          "name": "Imagen 16",
+          "shape_type": "PICTURE (13)",
+          "left": 4626432,
+          "top": 1907601,
+          "width": 3292900,
+          "height": 4939351,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_filename": "image.png",
+          "image_content_type": "image/png",
+          "image_size": [
+            1024,
+            1536
+          ]
+        },
+        {
+          "index": 7,
+          "name": "Gráfico 23",
+          "shape_type": "PICTURE (13)",
+          "left": 1240206,
+          "top": 6298710,
+          "width": 918471,
+          "height": 230832,
+          "rotation": 0.0,
+          "fill_error": "'Picture' object has no attribute 'fill'",
+          "image_error": "no embedded image"
+        },
+        {
+          "index": 8,
+          "name": "TextBox 1",
+          "shape_type": "TEXT_BOX (17)",
+          "left": -4242560,
+          "top": 6293450,
+          "width": 10936591,
+          "height": 230832,
+          "rotation": 0.0,
+          "fill_type": "None",
+          "text_frame": {
+            "margin_left": 0,
+            "margin_right": 0,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "word_wrap": true,
+            "paragraphs": [
+              {
+                "text": "PONLE IA  A TU DIA",
+                "level": 0,
+                "alignment": "CENTER (2)",
+                "space_before": null,
+                "space_after": null,
+                "line_spacing": null,
+                "runs": [
+                  {
+                    "text": "PONLE",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 15.0,
+                    "font_name": "Inter Tight Light",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "text": " IA  ",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 15.0,
+                    "font_name": "Inter Tight Black",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "text": "A TU D",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 15.0,
+                    "font_name": "Inter Tight Light",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "text": "IA",
+                    "bold": null,
+                    "italic": null,
+                    "size_pt": 15.0,
+                    "font_name": "Inter Tight Black",
+                    "color": "#FFFFFF"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
